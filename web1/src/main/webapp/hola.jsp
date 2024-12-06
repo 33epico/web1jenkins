@@ -8,6 +8,6 @@
 </head>
 <body>
 
-<%out.println("Hola mundo"); %>
+<%out.println("Hola y adios"); %>
 </body>
 </html>
